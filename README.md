@@ -1,3 +1,2 @@
 # test
-testowe
 Materiały źródłowe
